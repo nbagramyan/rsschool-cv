@@ -6,3 +6,6 @@
 
 ## About me
 I have an economic education. At the moment I want to change the sulfur of activity, so I started studying courses "JavaScript/Front-end" 
+
+## My hobby
+Fitness, music
